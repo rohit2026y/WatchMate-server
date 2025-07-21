@@ -1,0 +1,12 @@
+{
+  "name": "watchmate-auth-server",
+  "version": "1.0.0",
+  "description": "Secure Ably token authentication server for WatchMate.",
+  "main": "api/auth.js",
+  "dependencies": {
+    "ably": "^1.2.0"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
